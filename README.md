@@ -21,9 +21,10 @@
 
 <h1></h1>
 <h1> Output of newman </h1>
-<img align="center" src="https://i.ibb.co/s3tx8ds/test.png" alt="msazid" />
-<img align="center" src="https://i.ibb.co/s3tx8ds/test-2.png" alt="msazid" />
 
+![test-998](https://github.com/msazid/money-transaction-api-test/assets/70015894/bf0a0633-b700-4543-9f67-8e02ee61354f)
+
+![test-999](https://github.com/msazid/money-transaction-api-test/assets/70015894/c8b8525c-9eb1-4fc3-a89e-f1e338ec680e)
 
 <h1></h1>
 <h3>Links</h3>
