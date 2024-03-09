@@ -19,3 +19,7 @@
 <li>newman</li>
 <li>newman-reporter-htmlextra</li>
 
+<h1></h1>
+## Output of newman 
+<img align="center" src="https://i.ibb.co/s3tx8ds/test.png" alt="msazid" />
+<img align="center" src="https://i.ibb.co/s3tx8ds/test-2.png" alt="msazid" />
