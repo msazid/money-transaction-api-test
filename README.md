@@ -28,7 +28,7 @@
 <h1></h1>
 <h3>Links</h3>
 <li>Documentation <a href="https://documenter.getpostman.com/view/33016947/2sA2xh2sZh">Click Here</a></li>
-<li>Video Link: <a herf="">Click here</a></li>
+<li>Video Link: <a herf="#">Click here</a></li>
 
 <h1></h1>
 
